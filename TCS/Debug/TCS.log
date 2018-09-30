@@ -1,0 +1,8 @@
+﻿  Admin.cpp
+  Entry.cpp
+  Manage_Student.cpp
+  Staff.cpp
+  Student_Add.cpp
+  Generating Code...
+  Admin.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  TCS.vcxproj -> C:\Users\Vinayak Sharma\source\repos\TCS\Debug\TCS.exe
