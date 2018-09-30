@@ -1,5 +1,5 @@
-# tcsproject
-School Management System
+# TCS
+
 This is a repository of my TCS project in CLR (Common Language Runtime) with SQL.
 
 Working: Only "Manage Students" option is coded as of now.

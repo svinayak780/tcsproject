@@ -1,0 +1,19 @@
+﻿  Admin.cpp
+c:\users\vinayak sharma\source\repos\tcs\tcs\student_add.h(981): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\tcs\manage_staff.h(1390): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\tcs\manage_result.h(1535): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\tcs\manage_result.h(1554): warning C4101: 'reader': unreferenced local variable
+  Entry.cpp
+c:\users\vinayak sharma\source\repos\tcs\tcs\student_add.h(981): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\tcs\manage_staff.h(1390): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\tcs\manage_result.h(1535): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\tcs\manage_result.h(1554): warning C4101: 'reader': unreferenced local variable
+  Manage_Result.cpp
+c:\users\vinayak sharma\source\repos\tcs\tcs\manage_result.h(1535): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\tcs\manage_result.h(1554): warning C4101: 'reader': unreferenced local variable
+  Staff.cpp
+c:\users\vinayak sharma\source\repos\tcs\tcs\student_add.h(981): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\tcs\manage_result.h(1535): warning C4101: 'reader': unreferenced local variable
+c:\users\vinayak sharma\source\repos\tcs\tcs\manage_result.h(1554): warning C4101: 'reader': unreferenced local variable
+  Generating Code...
+  TCS.vcxproj -> C:\Users\Vinayak Sharma\source\repos\TCS\x64\Release\TCS.exe
